@@ -134,8 +134,7 @@ wait = {
     'autoAdd':True,
     'message':"""тнαикѕ fσя α∂∂ιиg мє αѕ α fяιєи∂
 ≫ ɪғ ɪ ɴᴏᴛ ᴀɴsᴡᴇʀ ᴊᴜsᴛ sᴘᴀᴍ ≪
-≫ sʟᴏᴡ ʀᴇsᴘᴏɴ ᴀᴛ 7ᴀᴍ ᴛɪʟʟ 6ᴘᴍ ≪
-"""
+≫ sʟᴏᴡ ʀᴇsᴘᴏɴ ᴀᴛ 7ᴀᴍ ᴛɪʟʟ 6ᴘᴍ ≪""",
 
     "lang":"JP",
     "comment":"Thanks For Add Me",
@@ -1659,11 +1658,6 @@ def bot(op):
                     gCreator = ginfo.creator.displayName
                 except:
                     gCreator = "Error"
-                if wait["lang"] == "JP":
-                    if ginfo.invitee is None:
-                        sinvitee = "0"
-                    else:
-                        sinvitee = str(len(ginfo.invitee))
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ginfo.creator.mid}
                 cl.sendText(msg.to,"[Groups Name]\n" + str(ginfo.name) + "\n[Groups Id]\n" + msg.to + "\n\n[Groups Creator]\n" + gCreator + "")
