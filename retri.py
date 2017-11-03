@@ -1666,9 +1666,10 @@ def bot(op):
                         sinvitee = str(len(ginfo.invitee))
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ginfo.creator.mid}
-                cl.sendText(msg.to,"[Names]\n" + str(ginfo.name) + "\n\n[Group Id] "")
-                cl.sendText(msg.to,"Creator Groups " + str(ginfo.name) + " :\n" + ginfo.creator.displayName )
-		cl.sendMessage(msg)
+                cl.sendText(msg.to,"[Groups Name]\n" + str(ginfo.name) + "\n[Groups Id]\n" + msg.to + "\n\n[Groups Creator]\n" + gCreator + "")
+                cl.sendText(msg.to,"Welcome to " + str(ginfo.name) + "Groups")
+                cl.sendText(msg.to,"Group Creator " + str(ginfo.name) + " :\n" + ginfo.creator.displayName )
+                cl.sendMessage(msg)
             elif "Say " in msg.text:
 				bctxt = msg.text.replace("Say ","")
 				ki.sendText(msg.to,(bctxt))
