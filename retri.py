@@ -33,7 +33,7 @@ ki3.loginResult()
 #ki6.login(token="")
 #ki6.loginResult()
 
-ki4 = ki5 = ki6 = cl
+
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -99,16 +99,12 @@ helpMessage ="""         =====[MueheheBots✓]=====
 """
 helo=""
 
-KAC=[cl,ki,ki2,ki3,ki4,ki5,ki6]
+KAC=[cl,ki,ki2,ki3]
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
 ki3mid = ki3.getProfile().mid
-ki4mid = ki4.getProfile().mid
-ki5mid = ki5.getProfile().mid
-ki5mid = ki5.getProfile().mid
-ki6mid = ki6.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
+Bots=[mid,kimid,ki2mid,ki3mid]
 admsa = "uc72e39d8c26cb3aacad5201e6f2c348c"
 
 wait = {
@@ -121,21 +117,8 @@ wait = {
     'message':"""тнαикѕ fσя α∂∂ιиg мє αѕ α fяιєи∂
 ≫ ɪғ ɪ ɴᴏᴛ ᴀɴsᴡᴇʀ ᴊᴜsᴛ sᴘᴀᴍ ≪
 ≫ sʟᴏᴡ ʀᴇsᴘᴏɴ ᴀᴛ 7ᴀᴍ ᴛɪʟʟ 6ᴘᴍ ≪
+"""
 
-Ready:
-
-≫ bot protect ≪
-≫ SelfBot ≪
-
-
-ṡȗƿƿȏяṭєԀ ɞʏ:
-  
-☆S̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃Ã̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃T̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃R̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃Ḭ̷̶̷̶̷̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃Ã̷̶̷̰̰̰̰̃̃̃̃̃̃̃ ̶̷̰̰̃̃̃̃S̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃Ḛ̷̶̷̶̷̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃L̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃F̷̶̷̰̰̰̰̃̃̃̃̃̃̃̃☆
-
-
-
-Minat?PM!
-Idline: http://line.me/ti/p/~satria_hk""",
     "lang":"JP",
     "comment":"Thanks For Add Me",
     "commentOn":True,
