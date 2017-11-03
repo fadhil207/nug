@@ -38,43 +38,31 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""         =====[S̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃Ã̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃T̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃R̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃Ḭ̷̶̷̶̷̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃Ã̷̶̷̰̰̰̰̃̃̃̃̃̃̃ ̶̷̰̰̃̃̃̃S̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃Ḛ̷̶̷̶̷̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃L̷̶̷̶̷̰̰̰̰̰̰̃̃̃̃̃̃̃̃̃̃̃̃F̷̶̷̰̰̰̰̃̃̃̃̃̃̃̃]=====
+
+helpMessage ="""         =====[MueheheBots✓]=====
 
 [C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅]
 
-❂͜͡☆➣ [Id]
-❂͜͡☆➣ [Mid]
-❂͜͡☆➣ [Me] 
-❂͜͡☆➣ [TL 「Text」
-❂͜͡☆➣ [MyName]
-❂͜͡☆➣ [Gift/Gift you/I Gift]
-❂͜͡☆➣ [Bot1/2/3 Gift]
-❂͜͡☆➣ [Mid 「mid」
-❂͜͡☆➣ [Group id]
-❂͜͡☆➣ [Group cancel]
-❂͜͡☆➣ [album 「id」]
-❂͜͡☆➣ [Hapus album 「id」
-❂͜͡☆➣ [Contact on] 
-❂͜͡☆➣ [Contact off] 
-❂͜͡☆➣ [Auto join on] 
-❂͜͡☆➣ [Auto join off] 
-❂͜͡☆➣ [Group cancel]
-❂͜͡☆➣ [Auto leave on] 
-❂͜͡☆➣ [Auto leave off]
-❂͜͡☆➣ [Auto add on/off] 
-❂͜͡☆➣ [Jam on]
-❂͜͡☆➣ [Jam off]
-❂͜͡☆➣ [Jam say]
-❂͜͡☆➣ [Up]
-❂͜͡☆➣ [Tagall/Miss you/Pinky]
-❂͜͡☆➣ [Mebot]
-❂͜͡☆➣ [Com on]
-❂͜͡☆➣ [Com set]
-❂͜͡☆➣ [Message Confirmation] 
-❂͜͡☆➣ [Mybio: 「Isi Bio」]  
-❂͜͡☆➣ [Allbio: 「Isi Bio bot」] 
+❂͜͡☆➣ Mid
+❂͜͡☆➣ Me
+❂͜͡☆➣ TL 「Text」
+❂͜͡☆➣ MyName:
+❂͜͡☆➣ Gift
+❂͜͡☆➣ Gid
+❂͜͡☆➣ Invite
+❂͜͡☆➣ Cek @
+❂͜͡☆➣ Jam on/off
+❂͜͡☆➣ Contact
+❂͜͡☆➣ Jam say 「Text」
+❂͜͡☆➣ Up
+❂͜͡☆➣ Tagall
+❂͜͡☆➣ Mybot
+❂͜͡☆➣ Message Confirmation 
+❂͜͡☆➣ Mybio: 「Isi Bio」
+❂͜͡☆➣ Allbio: 「Isi Bio bot」 
   
 [C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅ ̶̲̅ɪ̶̲̅ɴ̶̲̅ ̶̲̅G̶̲̅ʀ̶̲̅ᴏ̶̲̅ᴜ̶̲̅ᴘ̶̲̅]
+
 
 ❂͜͡☆➣ [Link on]
 ❂͜͡☆➣ [Link off] 
