@@ -10,7 +10,11 @@ cl.login(qr=True)
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(qr=True)
+ki.login(qr=ki.sendMessage(msg)
+               ki2.sendMessage(msg)
+               ki3.sendMessage(msg)
+               ki4.sendMessage(msg)
+               ki5.sendMessage(msg))
 ki.loginResult()
 
 ki2 = LINETCR.LINE()
@@ -22,18 +26,11 @@ ki3.login(qr=True)
 ki3.loginResult()
 
 ki4 = LINETCR.LINE()
-ki4.login(qr=True)
-ki4.loginResult()
-
-#ki5 = LINETCR.LINE()
-#ki5.login(token="EmpaCJrE44xuEr13xCje.sOjrWKkG9/5fbUHbb0lv+G.y9G/kF7JWtw0SRSGlEOLaYFKchVoxj1mXgQqKyjBEY8=")
-#ki5.loginResult()
-
-#ki6 = LINETCR.LINE
-#ki6.login(qr=True)
-#ki6.loginResult()
-
-#ki7 = LINETC.LINE
+ki4.login(qrki.sendMessage(msg)
+               ki2.sendMessage(msg)
+               ki3.sendMessage(msg)
+               ki4.sendMessage(msg)
+               ki5.sendMessage(msg)
 #ki7.login(qr=True)
 #ki7.loginResult()
 
@@ -51,25 +48,11 @@ helpMessage =""" =====[You Know Me La]=====
 ❂͜͡☆➣ TL: 「Put Your timeline status」
 ❂͜͡☆➣ MyName: 「Change Your Name」
 ❂͜͡☆➣ Name 1-5: 「Change Your Bots Name 1 by 1」
-❂͜͡☆➣ All: 「Change Bots Name」
-❂͜͡☆➣ Bots1-5 Groups 「Show Your Bots Groups」
-❂͜͡☆➣ Bots1-5 Gid 「Show Your Bots GID」
-❂͜͡☆➣ Bots1-5 Invite:「Put GID Bots Invite You to Groups」
-❂͜͡☆➣ Copy1-2 「Bots Clone Contact Targets」
-❂͜͡☆➣ All Nenen @ 「All of Your Bots Mimic User」
-❂͜͡☆➣ Follow1-3: 「Your Bots Mimic User」
-❂͜͡☆➣ Tagall 「Mention All Members in Groups」
-❂͜͡☆➣ Mybots 「Show Your Bots Contact」
-❂͜͡☆➣ Message Confirmation 「Check Your additional Message」
-❂͜͡☆➣ Mybio: 「Uodate Your Status」
-❂͜͡☆➣ Allbio: 「Update oYur Bots Status」 
-  
-[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅ ̶̲̅ɪ̶̲̅ɴ̶̲̅ ̶̲̅G̶̲̅ʀ̶̲̅ᴏ̶̲̅ᴜ̶̲̅ᴘ̶̲̅]
-
-❂͜͡☆➣ Invite:on:「Put Mid Contact Bots Invite member」
-❂͜͡☆➣ Kick:「Put Mid Contact」
-❂͜͡☆➣ Ginfo 「Show The Groups Information」
-❂͜͡☆➣ Gid 「Show The Groups Id」
+❂͜͡☆➣ All: 「Change ki.sendMessage(msg)
+               ki2.sendMessage(msg)
+               ki3.sendMessage(msg)
+               ki4.sendMessage(msg)
+               ki5.sendMessage(msg) Id」
 ❂͜͡☆➣ Cancel 「Change Bots Name」
 ❂͜͡☆➣ Gn 「Change Group Name」
 ❂͜͡☆➣ Url 「Qr/Url Join Code」
@@ -102,24 +85,11 @@ kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
 ki3mid = ki3.getProfile().mid
 ki4mid = ki4.getProfile().mid
-ki5mid = ki5.getProfile().mid
-#ki6mid = ki6.getProfile().mid
-#ki7mid = ki7.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid] #jika mau menambahkan bot jgn lupa taroh disini cth. ki5mid didalem [] jangan lupa tanda koma
-admsa = "ub0a437d8c41b2949e1de3f884ac32e02"
-wait = {
-    'contact':False,
-    'autoJoin':False,
-    'autoCancel':{"on":True,"members":1},
-    'leaveRoom':True,
-    'timeline':True,
-    'autoAdd':True,
-    'message':"""тнαикѕ fσя α∂∂ιиg мє αѕ α fяιєи∂
-≫ ɪғ ɪ ɴᴏᴛ ᴀɴsᴡᴇʀ ᴊᴜsᴛ sᴘᴀᴍ ≪
-≫ sʟᴏᴡ ʀᴇsᴘᴏɴ ᴀᴛ 7ᴀᴍ ᴛɪʟʟ 6ᴘᴍ ≪""",
-
-    "lang":"JP",
-    "comment":"Thanks For Add Me",
+ki5mid = ki.sendMessage(msg)
+               ki2.sendMessage(msg)
+               ki3.sendMessage(msg)
+               ki4.sendMessage(msg)
+               ki5.sendMessage(msg) Add Me",
     "commentOn":True,
     "commentBlack":{},
     "wblack":False,
@@ -153,29 +123,11 @@ mimic = {
     }
 
 Follow = {
-    "status":False,
-    "target":{}
-    }
-
-ikut = {
-    "status":False,
-    "target":{}
-    }
-
-goo = {
-    "status":False,
-    "target":{}
-    }
-
-
-def cms(string, commands): #/XXX, >XXX, ;XXX, ^XXX, %XXX, $XXX...
-    tex = ["+","@","/",">",";","^","%","$","＾","サテラ:","サテラ:","サテラ：","サテラ："]
-    for texX in tex:
-        for command in commands:
-            if string ==command:
-                return True
-    return False
-
+    "ki.sendMessage(msg)
+               ki2.sendMessage(msg)
+               ki3.sendMessage(msg)
+               ki4.sendMessage(msg)
+               ki5.sendMessage(msg)
 def bot(op):
     try:
         if op.type == 0:
@@ -209,7 +161,7 @@ def bot(op):
             #random.choice(KAC).sendText(op.param1, "Good Bye :)")
             #print op.param3 + "has left the group"
 
-        #if op.type == 17:
+        #if op.type type == 17:
             #group = cl.getGroup(op.param1)
             #cb = Message()
             #cb.to = op.param1
@@ -224,13 +176,14 @@ def bot(op):
             if wait["leaveRoom"] == True:
                 cl.leaveRoom(op.param1)
 #-------------------------------------------------------------------------------------------------------------------
-        if op.type == 24:
-            if wait["leaveRoom"] == True:
-                cl.leaveRoom(op.param1)
-#-------------------------------------------------------------------------------------------------------------------
         if op.type == 26:
             msg = op.message
-            if msg.toType == 0:
+            if msg-------------------------------------------------
+            if msg.contentType == 16:
+                url = msg.contentMetadata["postEndUrl"]
+                cl.like(url[25:58], url[66:], likeType=1001)
+                ki.like(url[25:58], url[66:], likeType=1001)
+                ki2.l.toType == 0:
                 msg.to = msg.from_
                 if msg.from_ == "ub0a437d8c41b2949e1de3f884ac32e02":
                     if "join:" in msg.text:
@@ -246,12 +199,7 @@ def bot(op):
             if msg.toType == 1:
                 if wait["leaveRoom"] == True:
                     cl.leaveRoom(msg.to)
-#-------------------------------------------------------------------------------------------------------------------------------
-            if msg.contentType == 16:
-                url = msg.contentMetadata["postEndUrl"]
-                cl.like(url[25:58], url[66:], likeType=1001)
-                ki.like(url[25:58], url[66:], likeType=1001)
-                ki2.like(url[25:58], url[66:], likeType=1001)
+#------------------------------------------------------------------------------ike(url[25:58], url[66:], likeType=1001)
                 ki3.like(url[25:58], url[66:], likeType=1001)
                 ki4.like(url[25:58], url[66:], likeType=1001)
                 #ki5.like(url[25:58], url[66:], likeType=1001)
@@ -259,7 +207,23 @@ def bot(op):
                 #ki7.like(url[25:58], url[66:], likeType=1001)
 #-----------------------------------------------------------------------------------------------------
             if msg.contentType == 16:
-                url = msg.contentMetadata("line://home/post?userMid="+mid+"&postId="+"new_post")
+                url = 
+                        del wait["commentBlack"][msg.contentMetadata["mid"]]
+                        cl.sendText(msg.to,"Removed User in My Blacklist , Done..")
+                        wait["dblack"] = False
+                    else:
+                        wait["dblack"] = False
+                        cl.sendText(msg.to,"User Not in Blacklist")
+                elif wait["wblacklist"] == True:
+                    if msg.contentMetadata["mid"] in wait["blacklist"]:
+                        cl.sendText(msg.to,"User In My Blacklist Now!")
+                        wait["wblacklist"] = False
+                    else:
+                        wait["blacklist"][msg.contentMetadata["mid"]] = True
+                        wait["wblacklist"] = False
+                        cl.sendText(msg.to,"User Already In My Blacklist")
+                elif wait["dblacklist"] == True:
+                    if msg.contentmsg.contentMetadata("line://home/post?userMid="+mid+"&postId="+"new_post")
                 cl.like(url[25:58], url[66:], likeType=1001)	
                 ki.like(url[25:58], url[66:], likeType=1001)
                 ki2.like(url[25:58], url[66:], likeType=1001)
@@ -281,23 +245,25 @@ def bot(op):
                         wait["wblack"] = False
                         cl.sendText(msg.to,"Decided Not to Comment!")
                 elif wait["dblack"] == True:
-                    if msg.contentMetadata["mid"] in wait["commentBlack"]:
-                        del wait["commentBlack"][msg.contentMetadata["mid"]]
-                        cl.sendText(msg.to,"Removed User in My Blacklist , Done..")
-                        wait["dblack"] = False
-                    else:
-                        wait["dblack"] = False
-                        cl.sendText(msg.to,"User Not in Blacklist")
-                elif wait["wblacklist"] == True:
-                    if msg.contentMetadata["mid"] in wait["blacklist"]:
-                        cl.sendText(msg.to,"User In My Blacklist Now!")
-                        wait["wblacklist"] = False
-                    else:
-                        wait["blacklist"][msg.contentMetadata["mid"]] = True
-                        wait["wblacklist"] = False
-                        cl.sendText(msg.to,"User Already In My Blacklist")
-                elif wait["dblacklist"] == True:
-                    if msg.contentMetadata["mid"] in wait["blacklist"]:
+                    if msg.
+            elif msg.text is None:
+                return
+#----------------------------------------------------------------------------------------------------------------
+            elif ("Gn:" in msg.text):
+                if msg.toType == 2:
+                    group = cl.getGroup(msg.to)
+                    group.name = msg.text.replace("Gn:","")
+                    ki.updateGroup(group)
+                else:
+                    cl.sendText(msg.to,"This Command only work in Groups")
+            elif ("Gn " in msg.text):
+                if msg.toType == 2:
+                    group = cl.getGroup(msg.to)
+                    group.name = msg.text.replace("Gn ","")
+                    cl.updateGroup(group)
+                else:
+                    cl.sendText(msg.to,"This Command only work in Groups")
+            elif "Kick:" in msg.tecontentMetadata["mid"] in wait["commentBlack"]:Metadata["mid"] in wait["blacklist"]:
                         del wait["blacklist"][msg.contentMetadata["mid"]]
                         cl.sendText(msg.to,"Done")
                         wait["dblacklist"] = False
@@ -330,25 +296,7 @@ def bot(op):
                         msg.text = "User Post URL\n" + msg.contentMetadata["postEndUrl"]
                     else:
                         msg.text = "User Posting URL\n" + msg.contentMetadata["postEndUrl"]
-                    cl.sendText(msg.to,msg.text)
-            elif msg.text is None:
-                return
-#----------------------------------------------------------------------------------------------------------------
-            elif ("Gn:" in msg.text):
-                if msg.toType == 2:
-                    group = cl.getGroup(msg.to)
-                    group.name = msg.text.replace("Gn:","")
-                    ki.updateGroup(group)
-                else:
-                    cl.sendText(msg.to,"This Command only work in Groups")
-            elif ("Gn " in msg.text):
-                if msg.toType == 2:
-                    group = cl.getGroup(msg.to)
-                    group.name = msg.text.replace("Gn ","")
-                    cl.updateGroup(group)
-                else:
-                    cl.sendText(msg.to,"This Command only work in Groups")
-            elif "Kick:" in msg.text:
+                    cl.sendText(msg.to,msg.text)xt:
                 midd = msg.text.replace("Kick:","")
                 cl.kickoutFromGroup(msg.to,[midd])
 #------------------------------------------------------------------------------------------------------
@@ -358,32 +306,7 @@ def bot(op):
                 ki.inviteIntoGroup(msg.to,[midd])
                 ki2.findAndAddContactsByMid(midd)
                 ki2.inviteIntoGroup(msg.to,[midd])
-                ki3.findAndAddContactsByMid(midd)
-                ki3.inviteIntoGroup(msg.to,[midd])
-                ki4.findAndAddContactsByMid(midd)
-                ki4.inviteIntoGroup(msg.to,[midd])
-                #ki5.findAndAddContactsByMid(midd)
-                #ki5.inviteIntoGroup(msg.to,[midd])
-#---------------------------------------------------------------------------------------------------------
-            elif "My Bots" == msg.text:
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': kimid}
-                cl.sendMessage(msg) 
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki2mid}
-                cl.sendMessage(msg) 
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki3mid}
-                cl.sendMessage(msg) 
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki4mid}
-                cl.sendMessage(msg)
-                #msg.contentType = 13
-                #msg.contentMetadata = {'mid': ki5mid}
-                #cl.sendMessage(msg)
-                #msg.contentType = 13
-                #msg.contentMetadata = {'mid': ki6mid}
-                #cl.sendMessage(msg)
+                ki3.
                 #msg.contentType = 13
                 #msg.contentMetadata = {'mid': ki7mid}
                 #cl.sendMessage(msg)
@@ -414,16 +337,20 @@ def bot(op):
                 #ki5.sendMessage(msg)
             #elif "Bots6" == msg.text:
                 #msg.contentType = 13
-                #msg.contentMetadata = {'mid': ki6mid}
-                #ki6.sendMessage(msg)
-            #elif "Bots7" == msg.text:
-                #msg.contentType = 13
-                #msg.contentMetadata = {'mid': ki7mid}
-                #ki7.sendMessage(msg)
-#---------------------------------------------------------------------------------------------------------------------
-            elif msg.text in ["Gift","gift"]:
-                msg.contentType = 9
-                msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
+                #msg.confindAndAddContactsByMid(midd)
+                ki3.inviteIntoGroup(msg.to,[midd])
+                ki4.findAndAddContactsByMid(midd)
+                ki4.inviteIntoGroup(msg.to,[midd])
+                #ki5.findAndAddContactsByMid(midd)
+                #ki5.inviteIntoGroup(msg.to,[midd])
+#---------------------------------------------------------------------------------------------------------
+            elif "My Bots" == msg.text:
+                msg.contentType = 13
+                msg.contentMetadata = {'mid': kimid}
+                cl.sendMessage(msg) 
+                msg.contentType = 13
+                msg.contentMetadata = {'mid': ki2mid}
+                cl.
                                     'PRDTYPE': 'THEME',
                                     'MSGTPL': '2'}
                 msg.text = None
@@ -436,10 +363,31 @@ def bot(op):
                 msg.text = None
                 cl.sendMessage(msg)
                 ki.sendMessage(msg)
-                ki2.sendMessage(msg)
+                ki2.sendsendMessage(msg) 
+                msg.contentType = 13contentType = 13
+                #msg.contentMetadata = {'mid': ki7mid}
+                #ki7.sendMessage(msg)
+#---------------------------------------------------------------------------------------------------------------------
+            elif msg.text in ["Gift","gift"]:
+                msg.contentType = 9
+                msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',Message(msg)
                 ki3.sendMessage(msg)
                 ki4.sendMessage(msg)
-                #ki5.sendMessage(msg)
+                #ki5.sendMe
+                msg.contentMetadata = {'mid': ki3mid}
+                cl.sendMessage(msg) 
+                msg.contentType = 13
+                msg.contentMetadata = {'mid': ki4mid}
+                cl.sendMessage(msg)
+                #msg.contentType = 13
+                #msg.contentMetadata = {'mid': ki5mid}
+                #cl.sendMessage(msg)
+                #msg.contentType = 13
+                #msg.contentMetadata = {'mid': ki6mid}
+                #cl.sendMessage(msg)tentMetadata = {'mid': ki6mid}
+                #ki6.sendMessage(msg)
+            #elif "Bots7" == msg.text:
+                #msg.ssage(msg)
                 #ki6.sendMessage(msg)
                 #ki7.sendMessage(msg)
 #-----------------------------------------------------------------------------------------------------------------
